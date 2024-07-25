@@ -58,3 +58,8 @@ Command line tool for recording process or system performance data.
 
 Repository URL: https://github.com/xiaopengli89/precord
 
+## 7. [monolith](https://github.com/iKineticate/Windows-ARM64-Binaries/releases/download/monolith/monolith.7z)
+
+CLI tool for saving complete web pages as a single HTML file
+
+Repository URL: https://github.com/Y2Z/monolith
